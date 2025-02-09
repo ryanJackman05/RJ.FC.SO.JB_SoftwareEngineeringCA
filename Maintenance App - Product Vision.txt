@@ -1,0 +1,14 @@
+Maintenance App - Product Vision
+________________________________
+
+Clients/Students:
+For attendees or employees of a business, school, or other establishment, who have found issues with any facility or location of the establishment, Maintenance App is a service software that provides an easy way for clients to report various maintenance, plumbing, electrical, or cleaning issues to the relevant business/school to be resolved. It will keep clients updated on their requests, from reporting to resolution. Different from communicating over an email network or a collaboration platform such as Teams, our product allows intuitive, topic-based communication to focus on resolving specific maintenance issues.
+
+Lecturers:
+For employees and lecturers of a school or university, who have found issues with any facility or location of the establishment, Maintenance App is a service software that provides an easy way for such clients to report various maintenance, plumbing, electrical, or cleaning issues to the relevant business/school to be resolved. Different from communicating over an email network or a collaboration platform such as Teams, our product allows intuitive, topic-based communication to focus on resolving specific maintenance issues, with higher priority granted to issues reported by verified lecturers and members of staff, to act as a safeguard against spam.
+
+Cleaning Staff:
+For cleaning staff, whose overwhelming workload causes some issues to be overlooked, the Maintenance App is a maintenance report application that connects facility users to facility maintainers with an easy-to-use reporting app where users can report a maintenance issue, and the app will assign an appropriate staff member to the issue. Different from a direct emailing system our product providing a buffer where reports are sorted, and information is automatically communicated to users through the automated system.
+
+Maintenance Staff:
+For maintenance staff who cannot work effectively without a reporting system but struggle with spam, multiple requests of the same issue and missing out on some reports due to the sheer amount coming in at any given time. The Maintenance App is a reporting software that organises reports by importance and filters out any duplicate reports. It also updates reporters with the status of the report such as if it has been allocated to a staff member, how long it is predicted to fix, when the problem is solved. Different from mass email communication, our product allows real-time automated updates to the relevant reporters, this means that people won’t be inundated with junk mails that do not concern them while concerned parties are kept informed. It also provides a buffer between the reporter and the maintenance staff for a more organized and efficient system.
